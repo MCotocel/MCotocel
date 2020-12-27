@@ -1,6 +1,5 @@
 # Hello there 👋🏻
 
-#### Working on: Setting up Emacs (pls send help)
 #### Languages: Python, shell, HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCotocel&langs_count=15)](https://github.com/MCotocel/github-readme-stats&langs_count=15)
