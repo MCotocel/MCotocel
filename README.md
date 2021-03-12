@@ -1,5 +1,5 @@
 # Hello there 👋🏻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCotocel&langs_count=15)](https://github.com/MCotocel/github-readme-stats&langs_count=15)
+> The Linux philosophy is 'Laugh in the face of danger'. Oops! Wrong One. 'Do it yourself'. Yes, that's it." 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MCotocel&show_icons=true)](https://github.com/MCotocel/github-readme-stats&show_icons=true)
+\- Linus Torvalds
