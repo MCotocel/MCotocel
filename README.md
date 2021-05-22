@@ -1,6 +1,6 @@
 # Hello!
 
-![](https://github.com/MCotocel/linux-dotfiles/blob/main/Rice.svg)
+![](https://github.com/MCotocel/linux-dotfiles/blob/main/Rice.png)
 
 
 ## Knowledge in:
