@@ -1,3 +1,2 @@
-# Hello
-
-Hi, I'm Matei, and I code stuff. Sometimes. When I'm not ~~ricing~~ procrastinating.
+- Decent at python and bash
+- Might actually program something proper someday instead of just editing config files
